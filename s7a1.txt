@@ -1,0 +1,16 @@
+﻿Session 7: What is Angular2
+Assignment-1
+
+Problem Statement.
+Create an Angular 2 application using Angular quickstart seed folder.
+	✓ Write down the commands to clone the folder from GITHUB.
+	✓ Write the commands to set up the environment for creating Angular 2
+	  application
+	✓ Create a component which renders the web page as “App Works”.
+
+Answer: The commands to Clone the quickstart folder form GITHUB is as follows:-
+
+	git clone https://github.com/angular/quickstart.git quickstart
+
+	npm install
+	npm start
